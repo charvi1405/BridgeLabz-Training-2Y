@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumUntil0 {
+public class SumNumberWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double total = 0.0;
@@ -15,7 +15,4 @@ public class SumUntil0 {
             total += number;
         }
 
-        System.out.println("The total sum is " + total);
-        scanner.close();
-    }
-}
+        System.out.println("The total sum is " + total);}}
