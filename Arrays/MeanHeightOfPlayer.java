@@ -13,7 +13,7 @@ public class MeanHeightOfPlayer {
 		}
 
 		double mean = sum / heights.length;
-		System.out.printf("Mean height of the football team: %.2f\n", mean);
+		System.out.printf("Mean height of the football team: ", mean);
 
 		scanner.close();
 	}
