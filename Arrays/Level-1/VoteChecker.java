@@ -26,3 +26,6 @@ public class VoteChecker {
 		scanner.close();
 	}
 }
+public class VoteChecker {
+    
+}
